@@ -1,0 +1,179 @@
+.sticky-header-con {
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 10000;
+	height: 104px;
+	-webkit-transition: ease 0.2s;
+	-moz-transition: ease 0.2s;
+	transition: ease 0.2s;
+}
+.header1 .sticky-header-con {
+	height: 50px;
+	-webkit-transition: height ease 0.2s;
+	-moz-transition: height ease 0.2s;
+	transition: height ease 0.2s;
+}
+
+
+.sticky-header-con .cbp-af-inner {
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+.sticky-header-con h1,
+.sticky-header-con nav {
+	display: inline-block;
+	position: relative;
+}
+
+ /* We just have one-lined elements, so we'll center the elements with the line-height set to the height of the header */
+
+.sticky-header-con h1 {
+	text-transform: uppercase;
+	color: #333;
+	letter-spacing: 4px;
+	font-size: 4em;
+	margin: 0;
+	float: left;
+}
+
+.sticky-header-con nav {
+	float: right;
+}
+
+.sticky-header-con nav a {
+	color: #aaa;
+	font-weight: 700;
+	margin: 0 0 0 20px;
+	font-size: 1.4em;
+}
+
+.sticky-header-con nav a:hover {
+	color: #333;
+}
+
+/* Transitions and class for reduced height */
+.sticky-header-con.sticky-header #logo{
+	-webkit-transition: margin 0.3s;
+	-moz-transition: margin 0.3s;
+	transition: margin 0.3s;
+}
+.sticky-header-con.sticky-header #mainNav li a {
+line-height: 65px;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+.header1 .sticky-header-con.sticky-header #mainNav li a {
+line-height: 50px;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.sticky-header-con.sticky-header {
+	height: 65px;
+	position: fixed;
+border-bottom: 1px solid #e2e2e2;
+	background: #fff;
+}
+.header1 .sticky-header-con.sticky-header {
+	height: 50px;
+}
+
+/* Example Media Queries */
+@media screen and (max-width: 55em) {
+	
+	.sticky-header-con .cbp-af-inner {
+		width: 100%;
+	}
+
+	.sticky-header-con h1,
+	.sticky-header-con nav {
+		display: block;
+		margin: 0 auto;
+		text-align: center;
+		float: none;
+	}
+
+	.sticky-header-con h1,
+	.sticky-header-con nav a {
+		line-height: 115px;
+	}
+
+	.sticky-header-con nav a {
+		margin: 0 10px;
+	}
+
+	.sticky-header-con.sticky-header h1,
+	.sticky-header-con.sticky-header nav a {
+		line-height: 45px;
+	}
+
+	.sticky-header-con.sticky-header h1 {
+		font-size: 2em;
+	}
+
+	.sticky-header-con.sticky-header nav a {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 32.25em) {
+	.sticky-header-con nav a {
+		font-size: 1em;
+	}
+}
+
+@media screen and (max-width: 24em) {
+	.sticky-header-con nav a,
+	.sticky-header-con.sticky-header nav a {
+		line-height: 1;
+	}
+}
+@media screen and (max-width: 767px) {
+	.sticky-header-con.sticky-header {
+		position: static;
+	}
+	.sticky-header-con.sticky-header #logo img {
+		max-width: 100%;
+	}
+	.sticky-header-con.sticky-header {
+		height: 104px;
+		border-bottom: none;
+	}
+	.sticky-header-con.sticky-header #pageHeader {
+		border-bottom: 1px solid #eaeaea;
+	}
+	.mnav {
+		margin-bottom: 20px;
+	}
+	.sticky-header-con.sticky-header #mainNav {
+		height: auto;
+	}
+	.sticky-header-con.sticky-header #pageHeader #logo {
+		margin: 20px 0;
+	}
+	.sticky-header-con.sticky-header #pageHeader #logo a {
+		margin-top: 6px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.sticky-header-con {
+		height: 206px;
+	}
+	.sticky-header-con #mainNav {
+		height: auto;
+	}
+	.sticky-header-con.sticky-header {
+		height: 206px;
+	}
+}
+
+@media screen and (max-width: 1199px) {
+	.sticky-header-con.sticky-header #pageHeader #logo {
+		margin-left: 15px;
+	}
+}

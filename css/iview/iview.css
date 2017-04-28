@@ -1,0 +1,262 @@
+/* The slider */
+.iviewSlider {
+	overflow: hidden;
+}
+
+/* The timer in the Slider */
+#iview-timer {
+	position: absolute;
+	z-index: 100;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#iview-timer div {
+	border-radius: 3px;
+}
+
+/* The Preloader in the Slider */
+#iview-preloader {
+	position: absolute;
+	z-index: 1000;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: #000 1px solid;
+	padding: 1px;
+	width: 100px;
+	height: 3px;
+}
+#iview-preloader div {
+	float: left;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	height: 3px;
+	background: #000;
+	width: 0px;
+}
+
+/* The strips and boxes in the Slider */
+.iview-strip {
+	display:block;
+	position:absolute;
+	z-index:5;
+}
+.iview-block {
+	display:block;
+	position:absolute;
+	z-index:5;
+}
+
+/* Direction nav styles (e.g. Next & Prev) */
+.iview-directionNav a {
+	position:absolute;
+	z-index:9;
+	cursor:pointer;
+}
+.iview-prevNav {
+	left:0px;
+}
+.iview-nextNav {
+	right:0px;
+}
+
+/* Control nav styles (e.g. 1,2,3...) */
+.iview-controlNav {
+	position:absolute;
+	z-index:9;
+}
+.iview-controlNav a {
+	z-index:9;
+	cursor:pointer;
+}
+.iview-controlNav a.active {
+	font-weight:bold;
+}
+.iview-controlNav .iview-items ul {
+	list-style: none;
+}
+.iview-controlNav .iview-items ul li {
+	display: inline;
+	position: relative;
+}
+.iview-controlNav .iview-tooltip {
+	position: absolute;
+}
+
+/* The captions in the Slider */
+.iview-caption {
+	position:absolute;
+	z-index:4;
+	overflow: hidden;
+	cursor: default;
+	background: #282827;
+	color: #FFF;
+	padding: 5px 10px;
+	font-size: 16px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	-o-box-sizing: content-box;
+	box-sizing: content-box;
+}
+
+/* The video show in the Slider */
+.iview-video-show {
+	background: #000;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 101;
+}
+.iview-video-show .iview-video-container {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.iview-video-show .iview-video-container a.iview-video-close {
+	position: absolute;
+	right: 10px;
+	top: 10px;
+	background: #222;
+	color: #FFF;
+	height: 20px;
+	width: 20px;
+	text-align: center;
+	line-height: 29px;
+	font-size: 22px;
+	font-weight: bold;
+	overflow: hidden;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+.iview-video-show .iview-video-container a.iview-video-close:hover {
+	background: #444;
+}
+
+.container {
+	display: block;
+	margin: 0px auto;
+}
+
+#iview {
+	display: block;
+	background: #000;
+	background: rgba(0, 0, 0, 0.7);
+	position: relative;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 25px 25px -22px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 25px 25px -22px rgba(0, 0, 0, 0.5);
+	-o-box-shadow: 0 25px 25px -22px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 25px 25px -22px rgba(0, 0, 0, 0.5);
+	margin: 0px auto 50px;
+	overflow: hidden;
+}
+#iview:before{
+	display:block;
+	content:'';
+	position:absolute;
+	width:100%;
+	height:100%;
+	/*-webkit-box-shadow: inset 0px 0px 2px 5px rgba(255, 255, 255, 0.4);
+	-moz-box-shadow: inset 0px 0px 2px 5px rgba(255, 255, 255, 0.4);
+	-o-box-shadow: inset 0px 0px 2px 5px rgba(255, 255, 255, 0.4);
+	box-shadow: inset 0px 0px 2px 5px rgba(255, 255, 255, 0.4);*/
+	border: 5px solid rgba(255, 255, 255, 0.4);
+	z-index: 99;pointer-events: none;
+} 
+
+#iview .iviewSlider {
+	display: block;
+	width: 1170px;
+	height: 450px;
+	overflow: hidden;
+}
+
+
+
+#iview div.iview-directionNav {
+	position: absolute;
+	top: 50%;
+	left: 0px;
+	z-index: 9999;
+	width: 100%;
+	margin-top:  -14px;
+}
+
+#iview div.iview-directionNav a {
+	display: block;
+	cursor: pointer;
+	position: absolute;
+	width: 27px;
+	height: 27px;
+	background-image: url(../../img/banner/iview/bg_direction_nav.png);
+	text-indent: -9999px;
+	-webkit-transition: left 0.3s ease-in-out;
+	-webkit-transition-property: left,right;
+	-moz-transition: left 0.3s ease-in-out;
+	-moz-transition-property: left,right;
+	-o-transition: left 0.3s ease-in-out;
+	-o-transition-property: left,right;
+	-ms-transition: left 0.3s ease-in-out;
+	-ms-transition-property: left,right;
+	transition: left 0.3s ease-in-out;
+	transition-property: left,right;
+}
+
+#iview div.iview-directionNav a.iview-nextNav {
+	right: -27px;
+	background-position: 27px 0px;
+}
+
+#iview div.iview-directionNav a.iview-prevNav {
+	left: -27px;
+	background-position: 0px 0px
+}
+
+#iview.iview-hover div.iview-directionNav a.iview-nextNav {
+	right: 20px;
+}
+
+#iview.iview-hover div.iview-directionNav a.iview-prevNav {
+	left: 20px;
+}
+
+
+#iview-preloader {
+	border: #666 1px solid;
+	width: 150px
+}
+
+#iview-preloader div {
+	background: #666;
+}
+#iview-timer {
+	border-radius: 10px;
+}
+
+#iview-timer div {
+	border-radius: 10px;
+}
+
+/* iview Styles */
+
+.iview-caption.caption1 {
+	text-shadow: none;
+	background: #282827;
+	background: rgba(40, 40, 39, 0.9);
+}
+.iview-caption.caption2 {
+	background: #0187a5;
+	background: rgba(1, 135, 165, 0.9);
+}
+.iview-caption.video-caption.video-bg{
+	padding: 8px 8px 2px;
+}
+#iview .title{
+	font-family: "Droid Sans", Arial, Helvetica, sans-serif;
+	font-weight: 700;
+	font-size: 26px;
+	margin-bottom: 0;
+}
