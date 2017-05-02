@@ -65,13 +65,12 @@ require_once('PageTemplate.php');
 					<div class="col-md-4 col-sm-4">
 						<!-- Widget -->
 						<div class="widget">
-							<h2 class="title">About Us</h2>
-							<p>Fusce congue lacus id eros blandit varius. Duis id egestas turpis. In ut facilisis dui. Ut sit amet elit lacus, mattis tincidunt nisl. Integer rutrum pretium enim, ac venenatis erat aliquam non. Quisque leo odio, commodo nec mattis vitae, consequat id ligula lesuada fames.</p>
+							<h2 class="title">Acerca de Nosotros</h2>
+							<p><?php include 'AboutUS'; ?> </p>
 						</div>
 					</div>
-					<div class="col-md-4 col-sm-4">
-						<!-- Widget -->
-						<div class="widget">
+					<div class="col-md-4 col-sm-4">						
+						<!--div class="widget">
 							<h2 class="title">Popular Posts</h2>
 							<div class="popularPost">
 								<div class="postImg"> <img src="img/popular-post/70x50.gif" alt=""> </div>
@@ -87,14 +86,14 @@ require_once('PageTemplate.php');
 									<span class="date">Jun 08, 2012</span> 
 								</div>
 							</div>
-						</div>
+						</div-->
 					</div>
 					<div class="col-md-4 col-sm-4">
 						<!-- Widget -->
 						<div class="widget">
-							<h2 class="title">Connect with us</h2>
-							<p>Falcon Creative Studio<br>8100 Marty Street<br>Overland Park, KS 66204</p>
-							<p>Phone:  +1(582) 495 85 62<br>Email:<a href="#"> info@falconcreativestudio.com</a></p>
+							<h2 class="title">Cont&aacute;ctenos</h2>
+							<p>Edif. Alhambra 1-E<br/>Av. América y J. Campos<br/>Cochabamba – Bolivia</p>							
+							<p>Phone: +591(4) xxx xx xx <br>Email: <a href="mailto:info@madison-click.com"> info@madison-click.com</a></p>
 							<div class="socialIcons">
 								<ul class="clearfix">
 									<li><a href="#" class="icon22 blue"><span class="fa fa-twitter"></span></a></li>
