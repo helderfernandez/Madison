@@ -1,0 +1,482 @@
+﻿<!-- Banner -->
+<div id="banner">
+	<div class="fullwidthbanner-container">
+		<div class="fullwidthbanner">
+			<ul>
+				<!-- THE FIRST SLIDE -->
+				<li data-transition="fade" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
+					<img src="img/banner/revolution/pexels-photo-30360.jpg" alt="" data-fullwidthcentering="on"/>
+
+					<div class="caption lfr"
+					data-x="700"
+					data-y="106"
+					data-speed="600"
+					data-start="800"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/pexels-photo.jpg" alt=""/></div>
+
+					<div class="caption large_text large_bg sft"
+					data-x="16"
+					data-y="85"
+					data-speed="300"
+					data-start="1100"
+					data-easing="easeOutExpo"  >ES <span class="sky_blue">REAL</span>. ES <span class="sky_blue">INCREIBLE.</span></div>
+
+					<div class="caption color-bg sfr"
+					data-x="306"
+					data-y="185"
+					data-speed="300"
+					data-start="1400"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfr"
+					data-x="306"
+					data-y="185"
+					data-speed="300"
+					data-start="1400"
+					data-easing="easeOutExpo"  >Efectivo</div> 
+
+					<div class="caption color-bg sfl"
+					data-x="16"
+					data-y="185"
+					data-speed="300"
+					data-start="1700"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfl"
+					data-x="16"
+					data-y="185"
+					data-speed="300"
+					data-start="1700"
+					data-easing="easeOutExpo"  >Impactante</div>
+
+					<div class="caption color-bg sfr"
+					data-x="306"
+					data-y="245"
+					data-speed="300"
+					data-start="2000"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfr"
+					data-x="306"
+					data-y="245"
+					data-speed="300"
+					data-start="2000"
+					data-easing="easeOutExpo"  >Objetivo</div>
+
+					<div class="caption color-bg sfl"
+					data-x="16"
+					data-y="245"
+					data-speed="300"
+					data-start="2300"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfl"
+					data-x="16"
+					data-y="245"
+					data-speed="300"
+					data-start="2300"
+					data-easing="easeOutExpo"  >Competitivo</div>
+
+					<div class="caption color-bg sfr"
+					data-x="306"
+					data-y="305"
+					data-speed="300"
+					data-start="2600"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfr"
+					data-x="306"
+					data-y="305"
+					data-speed="300"
+					data-start="2600"
+					data-easing="easeOutExpo"  >Personalizado</div>
+
+					<div class="caption color-bg sfl"
+					data-x="16"
+					data-y="305"
+					data-speed="300"
+					data-start="2900"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfl"
+					data-x="16"
+					data-y="305"
+					data-speed="300"
+					data-start="2900"
+					data-easing="easeOutExpo"  >Medible</div>
+
+					<!--<div class="caption color-bg sfr"
+					data-x="306"
+					data-y="365"
+					data-speed="300"
+					data-start="3200"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""/></div>
+
+					<div class="caption medium_text uppercase mid_bg sfr"
+					data-x="306"
+					data-y="365"
+					data-speed="300"
+					data-start="3200"
+					data-easing="easeOutExpo"  >Bootstarp 3.0</div>
+
+					<div class="caption color-bg sfl"
+					data-x="16"
+					data-y="365"
+					data-speed="300"
+					data-start="3400"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/mid_bg.png" alt=""></div>
+
+					<div class="caption medium_text uppercase mid_bg sfl"
+					data-x="16"
+					data-y="365"
+					data-speed="300"
+					data-start="3400"
+					data-easing="easeOutExpo"  >Great Support</div>-->
+				</li>
+
+				<li data-transition="fade" data-slotamount="15" data-masterspeed="2300" data-delay="9400" data-thumb="images/thumbs/thumb2.jpg">
+					<img src="img/banner/revolution/pexels-photo-30360.jpg" alt="" data-fullwidthcentering="on"/>
+
+					<div class="caption lfl"
+					data-x="50"
+					data-y="156"
+					data-speed="300"
+					data-start="1200"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/road-sky-clouds-cloudy.jpg" alt=""></div>
+
+					<div class="caption large_text large_bg lfl lft"
+					data-x="458"
+					data-y="163"
+					data-speed="300"
+					data-start="1500"
+					data-easing="easeOutExpo">Lleva a tu negocio por nuevos caminos</div>
+
+					<!--<div class="caption para white_Bg lfr"
+					data-x="458"
+					data-y="233"
+					data-speed="300"
+					data-start="1800"
+					data-easing="easeOutExpo">True come with awesome css3 animations. Animated anything you want.</div>-->    
+					
+          <div class="caption sft"
+					data-x="458"
+					data-y="233"
+					data-speed="300"
+					data-start="2100"
+					data-easing="easeOutExpo"><a href="#"><img src="img/banner/revolution/social-twitter-bg.png" alt=""/></a></div>
+
+					<div class="caption sft"
+					data-x="528"
+					data-y="233"
+					data-speed="300"
+					data-start="2400"
+					data-easing="easeOutExpo"><a href="#"><img src="img/banner/revolution/social-facebook-bg.png" alt=""/></a></div>
+
+					<div class="caption sft"
+					data-x="598"
+					data-y="233"
+					data-speed="300"
+					data-start="2700"
+					data-easing="easeOutExpo"><a href="#"><a href="#"><img src="img/banner/revolution/social-gplus-bg.png" alt=""/></a></a></div>
+
+					<div class="caption sft"
+					data-x="668"
+					data-y="233"
+					data-speed="300"
+					data-start="3000"
+					data-easing="easeOutExpo"><a href="#"><img src="img/banner/revolution/social-pinterest-bg.png" alt=""/></a></div>
+				</li>
+
+
+				<li data-transition="fade" data-slotamount="15" data-masterspeed="2300" data-delay="9400" data-thumb="images/thumbs/thumb2.jpg">
+					<img src="img/banner/revolution/pexels-photo-30360.jpg" alt="" data-fullwidthcentering="on"/>
+
+					<div class="caption sfb"
+					data-x="0"
+					data-y="86"
+					data-speed="300"
+					data-start="1200"
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/fashion-person-woman-apple.jpg" alt=""/></div>
+
+					<div class="caption large_text white_color sfl"
+					data-x="518"
+					data-y="135"
+					data-speed="300"
+					data-start="1800"
+					data-easing="easeOutExpo">Estas en el lugar correcto.</div> 
+
+					<div class="caption para small_size sfl"
+					data-x="528"
+					data-y="195"
+					data-speed="300"
+					data-start="2100"
+					data-easing="easeOutExpo">Servicios Especializados para viralizar tus productos. </div> 
+
+					<div class="caption buy_now sfl"
+					data-x="528"
+					data-y="295"
+					data-speed="300"
+					data-start="2400"
+					data-easing="easeOutExpo"><a href="#">Empieza</a></div>
+
+
+				</li>
+			</ul>
+
+			<div class="tp-bannertimer"></div>
+		</div>
+	</div>
+</div>
+<!-- Main Container -->
+<div role="main" id="mainContent" class="container">
+	<!-- CallOut -->		
+	<section class="callOut newSection">
+    
+		<h2 class="title">
+      Madison Click      
+    </h2>
+		<p>Nuestra especialidad Marketing en Redes Sociales.</p>
+		<div class="sep"></div>
+	</section>
+
+	<!-- Services List -->
+	<section class="newSection mainServices">
+		<h2 class="title">Nuestros Servicios</h2>
+		<div class="row">
+			<div class="col-md-4 col-sm-4">
+				<div class="singleService">
+					<div class="sepCenter">
+						<div class="icon100"><i class="fa fa-laptop"></i></div>
+					</div>
+					<div class="content">
+						<h3 class="title">Social Media Empresarial</h3>
+						<p class="desc">Digitaliza tu empresa</p>
+						<p>Gestionamos sus redes sociales optimizando el movimiento orgánico, permitiendo ampliar su presencia en las principales plataformas digitales y la mente del consumidor.</p>
+						<p class="btnMargin"><a href="#" class="btn btn-theme-pri btn-medium">Ent&#233;rate</a></p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-4">
+				<div class="singleService">
+					<div class="sepCenter">
+						<div class="icon100"><i class="fa fa-mobile-phone"></i></div>
+					</div>
+					<div class="content">
+						<h3 class="title">Campa&ntilde;as Digitales</h3>
+						<p class="desc">Asegura el &eacute;xito de tu campa&ntilde;a</p>
+						<p>Servicio especializado, intensificamos el flujo orgánico y optimizamos la publicidad de las redes sociales. De esta forma incrementamos el rendimiento de sus recursos.</p>
+            <p class="btnMargin">
+              <a href="#" class="btn btn-theme-pri btn-medium">Ent&#233;rate</a>
+            </p>
+          </div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-4">
+				<div class="singleService">
+					<div class="sepCenter">
+						<div class="icon100"><i class="fa fa-eye "></i></div>
+					</div>
+					<div class="content">
+						<h3 class="title">Relaciones P&uacute;blicas Digitales</h3>
+						<p class="desc">Potencia tus actividades</p>
+						<p>Gestionamos redes sociales de personas públicas, promocionando y difundiendo las actividades y eventos en los cuales participan, así como la cobertura de los mismos.</p>
+            <p class="btnMargin">
+              <a href="#" class="btn btn-theme-pri btn-medium">Ent&#233;rate</a>
+            </p>
+          </div>
+				</div>
+			</div>
+		</div>
+		<div class="sep"></div>
+	</section>
+
+
+	<!-- Recent Projects -->		
+	<!--<section class="newSection recentProject">
+		<h2 class="title">Recent Projects</h2>
+		<ul class="bxslider hoverEffects hoverEffects1">
+			<li>
+				<div class="hoverEffect">
+					<div class="front"><img alt="" src="img/recent-post/373x225.gif"></div>
+					<a href="#">
+						<div class="mask">
+							<p class="fa fa-link"></p>
+						</div>
+					</a>
+				</div>
+				<div class="content">
+					<h3 class="title"><a href="#">40+ Shortcode </a></h3>
+					<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt. vel urna commodo dignissim.</p>
+				</div>
+			</li>
+			<li>						
+				<div class="hoverEffect">
+					<div class="front"><img alt="" src="img/recent-post/373x225.gif"></div>
+					<a href="#">
+						<div class="mask">
+							<p class="fa fa-link"></p>
+						</div>
+					</a>
+				</div>
+				<div class="content">
+					<h3 class="title"><a href="#">Color Variations</a></h3>
+					<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt. vel urna commodo dignissim.</p>
+				</div>
+			</li>
+			<li>
+				<div class="hoverEffect">
+					<div class="front"><img alt="" src="img/recent-post/373x225.gif"></div>
+					<a href="#">
+						<div class="mask">
+							<p class="fa fa-link"></p>
+						</div>
+					</a>
+				</div>
+				<div class="content">
+					<h3 class="title"><a href="#">Advance Theme Option</a></h3>
+					<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt. vel urna commodo dignissim.</p>
+				</div>
+			</li>
+			<li>
+				<div class="hoverEffect">
+					<div class="front"><img alt="" src="img/recent-post/373x225.gif"></div>
+					<a href="#">
+						<div class="mask">
+							<p class="fa fa-link"></p>
+						</div>
+					</a>
+				</div>
+				<div class="content">
+					<h3 class="title"><a href="#">Advance Theme Option</a></h3>
+					<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt. vel urna commodo dignissim.</p>
+				</div>
+			</li>
+			<li>						
+				<div class="hoverEffect">
+					<div class="front"><img alt="" src="img/recent-post/373x225.gif"></div>
+					<a href="#">
+						<div class="mask">
+							<p class="fa fa-link"></p>
+						</div>
+					</a>
+				</div>
+				<div class="content">
+					<h3 class="title"><a href="#">Color Variations</a></h3>
+					<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt. vel urna commodo dignissim.</p>
+				</div>
+			</li>
+			<li>
+				<div class="hoverEffect">
+					<div class="front"><img alt="" src="img/recent-post/373x225.gif"></div>
+					<a href="#">
+						<div class="mask">
+							<p class="fa fa-link"></p>
+						</div>
+					</a>
+				</div>
+				<div class="content">
+					<h3 class="title"><a href="#">Advance Theme Option</a></h3>
+					<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt. vel urna commodo dignissim.</p>
+				</div>
+			</li>
+		</ul>
+		<div class="sep"></div>
+	</section>-->
+
+	<section class="row">
+		<div class="col-md-8 col-sm-8">
+			<!-- Latest Post -->		
+			<article class="latestPost">
+				<h2 class="title">Ultimas entradas del Blog...</h2>
+				<!--<div class="blog">
+					<div class="postImg"> <img src="img/latest-project/140x100.gif" alt=""> </div>
+					<div class="content">
+						<h4 class="title"><a href="#"> How to change the color scheme in wordpress? </a></h4>
+						<p class="meta">Posted by <a href="#"> John Doe </a>In <a href="#">Web Design</a>, <a href="#">Inspirations</a> with <a href="#">8 comments</a></p>
+						<p>Fusce congue lacus id eros blandit varius. Duis id egestas turpis. In ut facilisis dui. Ut sitincgidunt nisl.</p>
+					</div>
+				</div>
+				<div class="blog">
+					<div class="postImg"> <img src="img/latest-project/140x100.gif" alt=""> </div>
+					<div class="content">
+						<h4 class="title"><a href="#"> How to change the color scheme in wordpress? </a></h4>
+						<p class="meta">Posted by <a href="#"> John Doe </a>In <a href="#">Web Design</a>, <a href="#">Inspirations</a> with <a href="#">8 comments</a></p>
+						<p>Fusce congue lacus id eros blandit varius. Duis id egestas turpis. In ut facilisis dui. Ut sitincgidunt nisl.</p>
+					</div>
+				</div>-->
+			</article>
+		</div>
+				
+		<!-- Testimonial -->
+		<!--<div class="col-md-4 col-sm-4 testimonials">
+			<h2 class="title">Testimonial</h2>
+			<div class="liquid-slider" id="slider-id">
+				<div class="testimonial">
+					<div class="authorDetails clearfix">
+						<div class="authorImg"><img src="img/author-post-img.jpg" alt=""></div>
+						<div class="content">
+							<p class="name">John Doe</p>
+							<p class="italic">Project Manager</p>
+						</div>
+					</div>
+					<p class="desc">Morbi ac tortor purus, pharetra volutpat sapien. Sed at orci neque, et pretium leo. Nullam ut sem eget mi accumsan rhongcus.</p>
+				</div>
+				<div class="testimonial">
+					<div class="authorDetails clearfix">
+						<div class="authorImg"><img src="img/author-post-img.jpg" alt=""></div>
+						<div class="content">
+							<p class="name">John Doe</p>
+							<p class="italic">Project Manager</p>
+						</div>
+					</div>
+					<p class="desc">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus nulla, commodo a sodales sed, dignissim pretium nunc. Nam et lacus neque. Sed volutpat ante id mauris laoreet vestibulum. Nam blandit felis non neque cursus aliquet. </p>
+				</div>
+				<div class="testimonial">
+					<div class="authorDetails clearfix">
+						<div class="authorImg"><img src="img/author-post-img.jpg" alt=""></div>
+						<div class="content">
+							<p class="name">John Doe</p>
+							<p class="italic">Project Manager</p>
+						</div>
+					</div>
+					<p class="desc">Cras luctus fringilla odio vel hendrerit. Cras pulvinar auctor sollicitudin. Sed lacus quam, sodales sit amet feugiat sit amet, viverra nec augue. Sed enim ipsum, malesuada quis blandit vel, posuere eget erat.</p>
+				</div>
+				<div class="testimonial">
+					<div class="authorDetails clearfix">
+						<div class="authorImg"><img src="img/author-post-img.jpg" alt=""></div>
+						<div class="content">
+							<p class="name">John Doe</p>
+							<p class="italic">Project Manager</p>
+						</div>
+					</div>
+					<p class="desc">Nulla ultricies ornare erat, a rutrum lacus varius nec. Pellentesque vehicula lobortis dignissim. Ut scelerisque auctor eros sed porttitor. Nullam pulvinar ultrices malesuada.</p>
+				</div>
+			</div>
+		</div>-->
+	</section>
+	<section class="newSection">
+		<div class="sep"></div>
+		<!-- Twitter Feed -->
+		<div class="twitterComment">
+			<ul class="twitters">
+			</ul>
+		</div>
+		<div class="sep"></div>
+	</section>
+	<!-- Our Clients -->
+	<section class="newSection ourClients">
+		<h2 class="title">Nuestros Clientes.</h2>
+		<div class="clients">
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<!--<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a>-->
+		</div>
+	</section>
+</div>
+<!-- maincontent --> 
