@@ -247,7 +247,7 @@
 				<div class="singleService">
 					<div class="sepCenter">
 						<div class="icon100"><!--<i class="fa fa-laptop"></i>-->
-              <img src="./inicio/Services/BusinessSocialMedia.png"></img>
+              <img src="./Inicio/Services/BusinessSocialMedia.png"></img>
             </div>
 					</div>
 					<div class="content">
@@ -262,7 +262,7 @@
 				<div class="singleService">
 					<div class="sepCenter">
 						<div class="icon100"><!--<i class="fa fa-mobile-phone"></i>-->
-              <img src="./inicio/Services/DigitalCampaings.png"></img>
+              <img src="./Inicio/Services/DigitalCampaings.png"></img>
             </div>
 					</div>
 					<div class="content">
@@ -279,7 +279,7 @@
 				<div class="singleService">
 					<div class="sepCenter">
 						<div class="icon100"><!--<i class="fa fa-eye "></i>-->
-              <img src="./inicio/Services/DigitalRP.png"></img>
+              <img src="./Inicio/Services/DigitalRP.png"></img>
             </div>
 					</div>
 					<div class="content">
@@ -473,9 +473,9 @@
 	<section class="newSection ourClients">
 		<h2 class="title">Our clients.</h2>
 		<div class="clients">
-			<a href="#" class="carousel-item"><img src="inicio/Clients/ClienteHeySuccess.png" alt="HeySuccess"/></a> 
-			<a href="#" class="carousel-item"><img src="inicio/Clients/ClienteStandUp.png" alt="StandUp"/></a>       
-			<a href="#" class="carousel-item"><img src="inicio/Clients/ClienteHersadig.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="./Inicio/Clients/ClienteHeySuccess.png" alt="HeySuccess"/></a> 
+			<a href="#" class="carousel-item"><img src="./Inicio/Clients/ClienteStandUp.png" alt="StandUp"/></a>       
+			<a href="#" class="carousel-item"><img src="./Inicio/Clients/ClienteHersadig.png" alt=""/></a> 
 			<!--<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
 			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
 			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 

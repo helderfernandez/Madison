@@ -9,9 +9,9 @@ class PageTemplate {
 }
 
 $menu = array(
-    "Home" => "Index",
-    "About us" => "About",
-	"Services"=>"Services",
-	"Blog"=>"Blog",
-	"Contact"=>"Contact"
+    "Home" => "index",
+    "About us" => "about",
+	"Services"=>"services",
+	"Blog"=>"blog",
+	"Contact"=>"contact"
 );
