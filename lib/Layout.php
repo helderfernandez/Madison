@@ -17,15 +17,15 @@ require_once('PageTemplate.php');
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<p>Contáctanos: +591 4 xxx xx xx</p>
+					<p>Call us: <?php include 'PhoneNumber';  ?></p>
 				</div>
 				<div class="col-md-6 col-sm-6">
 					<div class="socialIcons">
-						<!--ul>
+						<ul>
 							<li><a href="#" class="icon22 darkblue"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#" class="icon22 blue"><i class="fa fa-twitter"></i></a></li>
 							<li><a href="#" class="icon22 lightRed"><i class="fa fa-instagram"></i></a></li>
-						</ul-->
+						</ul>
 					</div>
 				</div>
 			</div>
@@ -65,7 +65,7 @@ require_once('PageTemplate.php');
 					<div class="col-md-4 col-sm-4">
 						<!-- Widget -->
 						<div class="widget">
-							<h2 class="title">Acerca de Nosotros</h2>
+							<h2 class="title">About Us</h2>
 							<p><?php include 'AboutUS'; ?> </p>
 						</div>
 					</div>
@@ -91,9 +91,9 @@ require_once('PageTemplate.php');
 					<div class="col-md-4 col-sm-4">
 						<!-- Widget -->
 						<div class="widget">
-							<h2 class="title">Cont&aacute;ctenos</h2>
-							<p>Edif. Alhambra 1-E<br/>Av. América y J. Campos<br/>Cochabamba – Bolivia</p>							
-							<p>Phone: +591(4) xxx xx xx <br>Email: <a href="mailto:info@madison-click.com"> info@madison-click.com</a></p>
+							<h2 class="title">Contact Us</h2>
+							<p>Bldg. Alhambra 1-E<br/>America Avenue and J Campos<br/>Cochabamba – Bolivia</p>							
+							<p>Phone: <?php include 'PhoneNumber';  ?> <br>Email: <a href="mailto:info@madison-click.com"> info@madison-click.com</a></p>
 							<div class="socialIcons">
 								<ul class="clearfix">
 									<li><a href="#" class="icon22 blue"><span class="fa fa-twitter"></span></a></li>

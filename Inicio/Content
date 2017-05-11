@@ -19,7 +19,7 @@
 					data-y="85"
 					data-speed="300"
 					data-start="1100"
-					data-easing="easeOutExpo"  >ES <span class="sky_blue">REAL</span>. ES <span class="sky_blue">INCREIBLE.</span></div>
+					data-easing="easeOutExpo"  ><span class="sky_blue">REAL</span> AND <span class="sky_blue">AWESOME.</span></div>
 
 					<div class="caption color-bg sfr"
 					data-x="306"
@@ -33,7 +33,7 @@
 					data-y="185"
 					data-speed="300"
 					data-start="1400"
-					data-easing="easeOutExpo"  >Efectivo</div> 
+					data-easing="easeOutExpo"  >Effective</div> 
 
 					<div class="caption color-bg sfl"
 					data-x="16"
@@ -47,7 +47,7 @@
 					data-y="185"
 					data-speed="300"
 					data-start="1700"
-					data-easing="easeOutExpo"  >Impactante</div>
+					data-easing="easeOutExpo"  >Incredible</div>
 
 					<div class="caption color-bg sfr"
 					data-x="306"
@@ -61,7 +61,7 @@
 					data-y="245"
 					data-speed="300"
 					data-start="2000"
-					data-easing="easeOutExpo"  >Objetivo</div>
+					data-easing="easeOutExpo"  >Objective</div>
 
 					<div class="caption color-bg sfl"
 					data-x="16"
@@ -75,7 +75,7 @@
 					data-y="245"
 					data-speed="300"
 					data-start="2300"
-					data-easing="easeOutExpo"  >Competitivo</div>
+					data-easing="easeOutExpo"  >Competitive</div>
 
 					<div class="caption color-bg sfr"
 					data-x="306"
@@ -89,7 +89,7 @@
 					data-y="305"
 					data-speed="300"
 					data-start="2600"
-					data-easing="easeOutExpo"  >Personalizado</div>
+					data-easing="easeOutExpo"  >Customized</div>
 
 					<div class="caption color-bg sfl"
 					data-x="16"
@@ -103,7 +103,7 @@
 					data-y="305"
 					data-speed="300"
 					data-start="2900"
-					data-easing="easeOutExpo"  >Medible</div>
+					data-easing="easeOutExpo"  >Measurable</div>
 
 					<!--<div class="caption color-bg sfr"
 					data-x="306"
@@ -142,14 +142,14 @@
 					data-y="156"
 					data-speed="300"
 					data-start="1200"
-					data-easing="easeOutExpo"  ><img src="img/banner/revolution/road-sky-clouds-cloudy.jpg" alt=""></div>
+					data-easing="easeOutExpo"  ><img src="img/banner/revolution/road-sky-clouds-cloudy.jpg" alt=""/></div>
 
 					<div class="caption large_text large_bg lfl lft"
 					data-x="458"
 					data-y="163"
 					data-speed="300"
 					data-start="1500"
-					data-easing="easeOutExpo">Lleva a tu negocio por nuevos caminos</div>
+					data-easing="easeOutExpo">Take your business to new roads</div>
 
 					<!--<div class="caption para white_Bg lfr"
 					data-x="458"
@@ -203,21 +203,21 @@
 					data-y="135"
 					data-speed="300"
 					data-start="1800"
-					data-easing="easeOutExpo">Estas en el lugar correcto.</div> 
+					data-easing="easeOutExpo">You’re on the right spot.</div> 
 
 					<div class="caption para small_size sfl"
 					data-x="528"
 					data-y="195"
 					data-speed="300"
 					data-start="2100"
-					data-easing="easeOutExpo">Servicios Especializados para viralizar tus productos. </div> 
+					data-easing="easeOutExpo">Specialized Services to viralize your products. </div> 
 
 					<div class="caption buy_now sfl"
 					data-x="528"
 					data-y="295"
 					data-speed="300"
 					data-start="2400"
-					data-easing="easeOutExpo"><a href="#">Empieza</a></div>
+					data-easing="easeOutExpo"><a href="./Services.php">Start</a></div>
 
 
 				</li>
@@ -233,40 +233,44 @@
 	<section class="callOut newSection">
     
 		<h2 class="title">
-      Madison Click      
+      Madison Click
     </h2>
-		<p>Nuestra especialidad Marketing en Redes Sociales.</p>
+		<p>Specialists in Social Media Marketing </p>
 		<div class="sep"></div>
 	</section>
 
 	<!-- Services List -->
 	<section class="newSection mainServices">
-		<h2 class="title">Nuestros Servicios</h2>
+		<h2 class="title">Our Services</h2>
 		<div class="row">
 			<div class="col-md-4 col-sm-4">
 				<div class="singleService">
 					<div class="sepCenter">
-						<div class="icon100"><i class="fa fa-laptop"></i></div>
+						<div class="icon100"><!--<i class="fa fa-laptop"></i>-->
+              <img src="./inicio/Services/BusinessSocialMedia.png"></img>
+            </div>
 					</div>
 					<div class="content">
-						<h3 class="title">Social Media Empresarial</h3>
-						<p class="desc">Digitaliza tu empresa</p>
-						<p>Gestionamos sus redes sociales optimizando el movimiento orgánico, permitiendo ampliar su presencia en las principales plataformas digitales y la mente del consumidor.</p>
-						<p class="btnMargin"><a href="#" class="btn btn-theme-pri btn-medium">Ent&#233;rate</a></p>
+						<h3 class="title">Business Social Media</h3>
+						<p class="desc">Make your business Digital</p>
+						<p>We manage you social networks, and optimizing the organic numbers. It will allow us to increase your presence on the main digital platforms and the consumer mind.</p>
+						<p class="btnMargin"><a href="#" class="btn btn-theme-pri btn-medium">Learn More</a></p>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-4">
 				<div class="singleService">
 					<div class="sepCenter">
-						<div class="icon100"><i class="fa fa-mobile-phone"></i></div>
+						<div class="icon100"><!--<i class="fa fa-mobile-phone"></i>-->
+              <img src="./inicio/Services/DigitalCampaings.png"></img>
+            </div>
 					</div>
 					<div class="content">
-						<h3 class="title">Campa&ntilde;as Digitales</h3>
-						<p class="desc">Asegura el &eacute;xito de tu campa&ntilde;a</p>
-						<p>Servicio especializado, intensificamos el flujo orgánico y optimizamos la publicidad de las redes sociales. De esta forma incrementamos el rendimiento de sus recursos.</p>
+						<h3 class="title">Digital Campaigns</h3>
+						<p class="desc">Ensure your campaign success</p>
+						<p>Specialized Service, We intensify the organic traffic and optimize the paid publicity on your social media, that way we increase the efficiency of your resources.</p>
             <p class="btnMargin">
-              <a href="#" class="btn btn-theme-pri btn-medium">Ent&#233;rate</a>
+              <a href="#" class="btn btn-theme-pri btn-medium">Learn More</a>
             </p>
           </div>
 				</div>
@@ -274,14 +278,16 @@
 			<div class="col-md-4 col-sm-4">
 				<div class="singleService">
 					<div class="sepCenter">
-						<div class="icon100"><i class="fa fa-eye "></i></div>
+						<div class="icon100"><!--<i class="fa fa-eye "></i>-->
+              <img src="./inicio/Services/DigitalRP.png"></img>
+            </div>
 					</div>
 					<div class="content">
-						<h3 class="title">Relaciones P&uacute;blicas Digitales</h3>
-						<p class="desc">Potencia tus actividades</p>
-						<p>Gestionamos redes sociales de personas públicas, promocionando y difundiendo las actividades y eventos en los cuales participan, así como la cobertura de los mismos.</p>
+						<h3 class="title">Digital PR</h3>
+						<p class="desc">Power your activities</p>
+						<p>We manage the social networks of public people, promoting and sharing their activities and events, and give a coverture of them.</p>
             <p class="btnMargin">
-              <a href="#" class="btn btn-theme-pri btn-medium">Ent&#233;rate</a>
+              <a href="#" class="btn btn-theme-pri btn-medium">Learn More</a>
             </p>
           </div>
 				</div>
@@ -387,7 +393,7 @@
 		<div class="col-md-8 col-sm-8">
 			<!-- Latest Post -->		
 			<article class="latestPost">
-				<h2 class="title">Ultimas entradas del Blog...</h2>
+				<h2 class="title">Latest from the Blog...</h2>
 				<!--<div class="blog">
 					<div class="postImg"> <img src="img/latest-project/140x100.gif" alt=""> </div>
 					<div class="content">
@@ -465,12 +471,12 @@
 	</section>
 	<!-- Our Clients -->
 	<section class="newSection ourClients">
-		<h2 class="title">Nuestros Clientes.</h2>
+		<h2 class="title">Our clients.</h2>
 		<div class="clients">
-			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
-			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
+			<a href="#" class="carousel-item"><img src="inicio/Clients/ClienteHeySuccess.png" alt="HeySuccess"/></a> 
+			<a href="#" class="carousel-item"><img src="inicio/Clients/ClienteStandUp.png" alt="StandUp"/></a>       
+			<a href="#" class="carousel-item"><img src="inicio/Clients/ClienteHersadig.png" alt=""/></a> 
 			<!--<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
-			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
 			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
 			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
 			<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""/></a> 
