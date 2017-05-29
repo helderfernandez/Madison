@@ -1,12 +1,12 @@
 ﻿<?php
-require_once('./lib/PageTemplate.php');
+require_once('./lib/pagetemplate.php');
 if (!isset($TPL)) {
     $TPL = new PageTemplate();
     $TPL-> PageTitle = "Madison Click - Home";
 	$TPL-> ActivePage = "Home";
-    $TPL-> ContentHead = './Inicio/Head';
-    $TPL-> ContentBody = './Inicio/Content';
-    $TPL-> Scripts     = './Inicio/Scripts';
-    include "./lib/Layout.php";
+    $TPL-> ContentHead = './inicio/head';
+    $TPL-> ContentBody = './inicio/content';
+    $TPL-> Scripts     = './inicio/scripts';
+    include "./lib/layout.php";
     exit;
 }

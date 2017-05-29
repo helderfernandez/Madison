@@ -5,7 +5,7 @@
 			<ul>
 				<!-- THE FIRST SLIDE -->
 				<li data-transition="fade" data-slotamount="10" data-masterspeed="300" data-thumb="images/thumbs/thumb1.jpg">
-					<img src="img/banner/revolution/pexels-photo-30360.jpg" alt="" data-fullwidthcentering="on"/>
+					<img src="img/banner/revolution/SlideShow-1360x500.png" alt="" data-fullwidthcentering="on"/>
 
 					<div class="caption lfr"
 					data-x="700"
@@ -135,7 +135,7 @@
 				</li>
 
 				<li data-transition="fade" data-slotamount="15" data-masterspeed="2300" data-delay="9400" data-thumb="images/thumbs/thumb2.jpg">
-					<img src="img/banner/revolution/pexels-photo-30360.jpg" alt="" data-fullwidthcentering="on"/>
+					<img src="img/banner/revolution/SlideShow-1360x500.png" alt="" data-fullwidthcentering="on"/>
 
 					<div class="caption lfl"
 					data-x="50"
@@ -189,7 +189,7 @@
 
 
 				<li data-transition="fade" data-slotamount="15" data-masterspeed="2300" data-delay="9400" data-thumb="images/thumbs/thumb2.jpg">
-					<img src="img/banner/revolution/pexels-photo-30360.jpg" alt="" data-fullwidthcentering="on"/>
+					<img src="img/banner/revolution/SlideShow-1360x500.png" alt="" data-fullwidthcentering="on"/>
 
 					<div class="caption sfb"
 					data-x="0"

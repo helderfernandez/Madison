@@ -1,6 +1,6 @@
 ﻿<?php
 # layout.php
-require_once('PageTemplate.php');
+require_once('pagetemplate.php');
 ?>
 <!doctype html>
 <html class="no-js" lang="en">
@@ -17,7 +17,7 @@ require_once('PageTemplate.php');
 		<div class="container">
 			<div class="row">
 				<div class="col-md-6 col-sm-6">
-					<p>Call us: <?php include 'PhoneNumber';  ?></p>
+					<p>Call us: <?php include 'phonenumber';  ?></p>
 				</div>
 				<div class="col-md-6 col-sm-6">
 					<div class="socialIcons">
@@ -66,7 +66,7 @@ require_once('PageTemplate.php');
 						<!-- Widget -->
 						<div class="widget">
 							<h2 class="title">About Us</h2>
-							<p><?php include 'AboutUS'; ?> </p>
+							<p><?php include 'aboutus'; ?> </p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-4">						
@@ -93,7 +93,7 @@ require_once('PageTemplate.php');
 						<div class="widget">
 							<h2 class="title">Contact Us</h2>
 							<p>Bldg. Alhambra 1-E<br/>America Avenue and J Campos<br/>Cochabamba – Bolivia</p>							
-							<p>Phone: <?php include 'PhoneNumber';  ?> <br>Email: <a href="mailto:info@madison-click.com"> info@madison-click.com</a></p>
+							<p>Phone: <?php include 'phonenumber';  ?> <br>Email: <a href="mailto:info@madison-click.com"> info@madison-click.com</a></p>
 							<div class="socialIcons">
 								<ul class="clearfix">
 									<li><a href="#" class="icon22 blue"><span class="fa fa-twitter"></span></a></li>

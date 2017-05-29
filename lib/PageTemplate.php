@@ -1,5 +1,5 @@
 ﻿<?php
-#lib/PageTemplate.php
+#lib/pagetemplate.php
 class PageTemplate {
     public $PageTitle;
     public $ContentHead;
@@ -15,3 +15,4 @@ $menu = array(
 	"Blog"=>"blog",
 	"Contact"=>"contact"
 );
+?>
