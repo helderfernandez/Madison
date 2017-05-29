@@ -1,0 +1,190 @@
+﻿<!-- Sub-Banner -->    
+		<div id="banner" class="subBanner">
+			<div class="bannerBg">
+				<div class="row">
+					<div class="pull-left">
+						<h2 class="title">About us</h2>
+						<p class="desc">Let you know <strong>Who We Are</strong>?</p>
+					</div>
+					<div class="pull-right">
+						<ul>
+							<li><a href="#">Pages</a></li>
+							<li><i class="fa fa-angle-double-right font-size"></i></li>
+							<li>About Us</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<img src="img/sub-banner-shadow.png" alt="" class="sub-banner-shadow">
+		</div>
+
+		<div class="sep"></div>
+
+		<!-- Main Container -->
+		<div role="main" id="mainContent"> 
+
+			<!-- CallOut -->		
+			<section class="callOut newSection">
+				<h2 class="title">Lorem ipsum dolor sit amet, cognsectetur adipiscing elit.</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet pharetra leo.</p>
+				<div class="sep"></div>
+			</section>
+
+			<section class="row">
+				<div class="col-md-9 col-sm-9">
+					<section class="newSection about">
+						<h2 class="title">About Us</h2>
+						<p> About UsMorbi eros metus, semper vitae rutrum id, gravida vestibulum velit. Aenean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem. Phasellus ultrices, turpis eu fermentum accumsan, sem leo porta erat, a bibendum tellus magna id velit. Cras vel facilisis neque. Phasellus felis risus, varius non vulputate ut, tempus at risus. Praesent pellentesque felis sit amet lorem sagittis id scelerisque justo facilisis.</p>
+
+						<p>Aenean rhoncus sagittis orci, eu elementum neque lacinia at. Pellentesque porta sollicitudin convallis. Sed commodo massa ac nibh venenatis fringilla. Curabitur turpis nulla, bibendum ut malesuada at, placerat vestibulum nulla. Curabitur euismod leo vel nulla commodo commodo. In volutpat mollis pretium. Integer lobortis magna vel ipsum auctor adipiscing. Pellentesque sollicitudin odio et lectus sagittis auctor. Integer lectus orci, iaculis id feugiat vel, dignissim vel enim. Fusce dolor libero, faucibus at rutrum vitae, dapibus eget sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi dignissim lobortis quam ut iaculis. Praesent facilisis ante quis neque fringilla posuere. Praesent auctor lectus nulla.</p>
+
+						<p>Nullam et viverra nisl. Proin scelerisque justo eget augue feugiat quis luctus metus eleifend. Donec molestie turpis ut massa fermentum vel pellentesque mi pharetra. Nullam porta tempor eros. In eu lorem quis nulla dictum rutrum quis non odio. Proin lobortis feugiat aliquam. Etiam dapibus faucibus commodo. Etiam est dolor, vestibulum a tristique non, interdum nec augue.</p>
+						<div class="sep"></div>
+					</section>
+					<!-- Team Members -->
+					<section class="newSection ourTeam">
+						<h2 class="title">Meet Our Team</h2>
+						<p>Morbi eros metus, semper vitae rutrum id, gravida vestibulum velit. Aenean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut proin scelerisque justo eget augue feugiat quis luctus vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem.</p>	
+						<div class="teamMembers row">
+							<div class="col-md-4 col-sm-4">
+								<div class="ourPostImg">
+									<img src="img/team/270x180.gif" alt="" class="images">
+								</div>
+								<h4 class="title">John Doe</h4>  
+								<p class="desc">CEO of the Company</p>
+								<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt.</p>
+								<div class="social clearfix">
+									<ul>
+										<li><a href="#" class="tool-tip fa fa-twitter blue" rel="tooltip" data-placement="top" data-original-title="Twitter"></a></li>
+										<li><a href="#" class="tool-tip fa fa-facebook darkblue" rel="tooltip" data-placement="top" data-original-title="Facebook"></a></li>
+										<li><a href="#" class="tool-tip fa fa-google-plus red" rel="tooltip" data-placement="top" data-original-title="google"></a></li>
+										<li><a href="#" class="tool-tip fa fa-envelope lightred" rel="tooltip" data-placement="top" data-original-title="mail"></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-4">
+								<div class="ourPostImg">
+									<img src="img/team/270x180.gif" alt="" class="images">
+								</div>
+								<h4 class="title">John Doe</h4>  
+								<p class="desc">CEO of the Company</p>
+								<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt.</p>
+								<div class="social clearfix">
+									<ul>
+										<li><a href="#" class="tool-tip fa fa-twitter blue" rel="tooltip" data-placement="top" data-original-title="Twitter"></a></li>
+										<li><a href="#" class="tool-tip fa fa-facebook darkblue" rel="tooltip" data-placement="top" data-original-title="Facebook"></a></li>
+										<li><a href="#" class="tool-tip fa fa-google-plus red" rel="tooltip" data-placement="top" data-original-title="google"></a></li>
+										<li><a href="#" class="tool-tip fa fa-envelope lightred" rel="tooltip" data-placement="top" data-original-title="mail"></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-4 col-sm-4">
+								<div class="ourPostImg">
+									<img src="img/team/270x180.gif" alt="" class="images">
+								</div>
+								<h4 class="title">John Doe</h4>  
+								<p class="desc">CEO of the Company</p>
+								<p>In vitae urna tellus. In ornare nisl vel urna commodo dignissim. In quis metus odio, sit amet pharetra tortoronec volutpat ligula tincidunt.</p>
+								<div class="social clearfix">
+									<ul>
+										<li><a href="#" class="tool-tip fa fa-twitter blue" rel="tooltip" data-placement="top" data-original-title="Twitter"></a></li>
+										<li><a href="#" class="tool-tip fa fa-facebook darkblue" rel="tooltip" data-placement="top" data-original-title="Facebook"></a></li>
+										<li><a href="#" class="tool-tip fa fa-google-plus red" rel="tooltip" data-placement="top" data-original-title="google"></a></li>
+										<li><a href="#" class="tool-tip fa fa-envelope lightred" rel="tooltip" data-placement="top" data-original-title="mail"></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="sep"></div>
+					</section>
+					<!-- ProgressBar -->
+					<section class="newSection ourSkills">
+						<h2 class="title">Our Skills</h2>
+						<p>Morbi eros metus, semper vitae rutrum id, gravida vestibulum velit faucibus at rutrum vitae, dapibus eget sem enean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem.</p>
+
+						<div class="progress_bar">
+							<div class="progress">
+								<div class="bar" style="width: 80%;"><p>Web Design 80%</p></div>
+							</div>
+							<div class="progress">
+								<div class="bar" style="width: 30%;"><p>Graphics Design 30%</p></div>
+							</div>
+							<div class="progress">
+								<div class="bar" style="width: 90%;"><p>HTML5/CSS3 90%</p></div>
+							</div>
+							<div class="progress">
+								<div class="bar" style="width: 70%;"><p>CMS Design 70%</p></div>
+							</div>
+							<div class="progress">
+								<div class="bar" style="width: 50%;"><p>Animation 50%</p></div>
+							</div>
+						</div>
+
+					</section>
+				</div>
+				<!-- Sidebar -->
+				<aside class="col-md-3 col-sm-3">
+					<!-- Sidebar Widgets -->
+					<div class="widgets">
+						<h2 class="title">Our Services</h2>
+						<ul class="sidebarNav">
+							<li><a href="#">Web Design <span class="right-arrow"></span> </a></li>
+							<li><a href="#">Logo Design<span class="right-arrow"></span></a></li>
+							<li><a href="#">CMS Design<span class="right-arrow"></span></a></li>
+							<li><a href="#">Ecommerce Design<span class="right-arrow"></span></a></li>
+							<li><a href="#">SEO Optimization<span class="right-arrow"></span></a></li>
+							<li><a href="#">Search Engine Marketing<span class="right-arrow"></span></a></li>
+						</ul>
+						<div class="sep"></div>
+					</div>
+					<!-- Sidebar Widgets -->
+					<div class="widgets">
+						<h2 class="title">Latest News</h2>
+						<div class="latestNews">
+							<ul class="fa-ul">
+								<li>							
+									<h4 class="title"><i class="fa fa-li fa-file-text-o"></i><a href="#">Wordpress color scheme ?</a></h4>
+									<p class="date">Jun 08, 2012</p>
+									<p>Fusce congue lacus id eros blandit vgarius.</p>
+								</li>
+								<li>
+									<h4 class="title"><i class="fa fa-li fa-file-text-o"></i><a href="#">Wordpress color scheme ?</a></h4>
+									<p class="date">Jun 08, 2012</p>
+									<p>Fusce congue lacus id eros blandit vgarius.</p>
+								</li>
+							</ul>
+						</div>
+						<div class="sep displayNone"></div>
+					</div>
+
+				</aside>
+				<div class="sep"></div>  
+
+
+			</section>
+			<section class="newSection">
+				<!-- Twitter Feed -->
+				<div class="twitterComment">
+					<ul class="twitters">
+					</ul>
+				</div>
+				<div class="sep"></div>
+			</section>
+
+			<!-- Our Clients -->
+			<section class="newSection ourClients">
+				<h2 class="title">Our Clients</h2>
+				<div class="clients">
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
+					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a>
+				</div>
+			</section>
+
+		</div> <!-- maincontent -->

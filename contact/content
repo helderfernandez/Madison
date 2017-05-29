@@ -1,0 +1,95 @@
+﻿<!-- Sub-Banner -->
+		<div id="banner" class="subBanner">
+			<div class="bannerBg">
+				<div class="row">
+					<div class="pull-left">
+						<h2 class="title">Contact Us</h2>
+						<p class="desc">Let you know <strong>Who We Are</strong>?</p>
+					</div>
+					<div class="pull-right">
+						<ul>
+							<li><a href="#">Pages</a></li>
+							<li><i class="fa fa-angle-double-right font-size"></i></li>
+							<li>Contact Us</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<img src="img/sub-banner-shadow.png" alt="" class="sub-banner-shadow">
+		</div>
+
+		<div class="sep"></div>
+
+		<!-- Main Container -->
+		<div role="main" id="mainContent">
+
+
+			<section class="newSection row paddingTop">
+				<div class="col-md-9 col-sm-9">
+					<section class="newSection">
+						<h2>Contact Us</h2>
+						<p>Contact UsAuctor nisi risus enim pid turpis urna sit porta! Est phasellus eu! Mauris porttitor, scelerisque magna! Cursus sit aenean augue. Enim nec sit sed. Non dignissim! Natoque aliquam, phasellus? Lectus quis habitasse aenean lacus, nisi lorem arcu, turpis ultrices integer incidunt magna proin non turpis mus.Morbi eros metus, semper vitae rutrum id, gravida vestibulum velit. Aenean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem. Phasellus ultrices, turpis eu fermentum accumsan, sem leo porta erat, a bibendum tellus magna id velit. Cras vel facilisis neque. Phasellus felis risus, varius non vulputate ut, tempus at risus. Praesent pellentesque felis sit amet lorem sagittis id scelerisque justo facilisis.</p>
+
+						<!-- Map -->
+						<div class="map">
+							<iframe width="100%" height="296" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=New+York,+NY,+United+States&amp;aq=1&amp;oq=new&amp;sll=37.0625,-95.677068&amp;sspn=37.735377,86.044922&amp;ie=UTF8&amp;hq=&amp;hnear=New+York&amp;t=m&amp;z=10&amp;ll=40.714353,-74.005973&amp;output=embed"></iframe>
+						</div>
+
+						<p>Auctor nisi risus enim pid turpis urna sit porta! Est phasellus eu! Mauris porttitor, scelerisque magna! Cursus sit aenean augue. Enim nec sit sed. Non dignissim! Natoque aliquam, phasellus? Lectus quis habitasse aenean lacus, nisi lorem arcu, turpis ultrices integer incidunt magna proin non turpis mus.</p>
+						<div class="sep"></div>
+					</section>
+
+					<!-- Contact Form -->
+					<section class="getInTouch">
+						<h2 class="title">Get in Touch</h2>
+						<form action="sendMail.php" method="post" class="row" id="contactform">
+							<div class="response"></div>
+							<p class="col-md-6 col-sm-6">
+								<label for="contactname">Name <span>*</span></label><input name="contactname" id="contactname" type="text" class="textField">
+							</p>
+							<p class="col-md-6 col-sm-6">
+								<label for="email">Email <span>*</span></label>
+								<input name="email" id="email" type="text" class="textField">
+							</p>
+							<p class="col-md-12 col-sm-12 clearBoth">
+								<label for="message">Message <span>*</span></label>
+								<textarea name="message" name="message" id="message" rows="10" class="textArea"></textarea>
+							</p>
+							<div class="col-md-12 col-sm-12">
+								<p class="btnMargin">
+									<button name="send" type="submit" name="submit" id="submitButton" class="btn btn-theme-pri btn-medium">Send Mail</button>
+								</p>
+							</div>
+						</form>
+					</section>     
+					<div class="sep"></div>   
+				</div>
+				<!-- Sidebar -->
+				<aside class="col-md-3 col-sm-3">
+					<!-- Contact Details -->
+					<div class="widgets">
+						<div class="contactDetails">
+							<h2 class="title">Contact Info</h2>
+							<ul class="fa-ul">
+								<li>
+									<span class="fa fa-map-marker fa-li"></span>
+									Interion Corporate Office<br>
+									1377 Fell Street<br>
+									San Francisco, CA 94117
+								</li>
+								<li>
+									<span class="fa fa-phone fa-li"></span>
+									+1(582) 495 85 62
+								</li>
+								<li>
+									<div class="contactInfoIcons"> <span class="fa fa-envelope-o fa-li"></span> </div>
+									<a href="#">johndoe@gmail.com</a>
+								</li>
+							</ul>
+						</div>
+						<div class="sep"></div>
+					</div>
+
+				</aside>
+			</section>
+		</div> <!-- maincontent -->

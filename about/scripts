@@ -1,0 +1,5 @@
+﻿		$('.tool-tip').tooltip();
+		$('.pop-over').popover();
+		$('.pop-over').on('click',function(e){
+			e.preventDefault();
+		});
