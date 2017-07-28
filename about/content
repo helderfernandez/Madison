@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="pull-left">
 						<h2 class="title">About us</h2>
-						<p class="desc">Let you know <strong>Who We Are</strong>?</p>
+						<p class="desc"><strong>Give it a look</strong></p>
 					</div>
 					<div class="pull-right">
 						<ul>
@@ -25,8 +25,8 @@
 
 			<!-- CallOut -->		
 			<section class="callOut newSection">
-				<h2 class="title">Lorem ipsum dolor sit amet, cognsectetur adipiscing elit.</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet pharetra leo.</p>
+				<h2 class="title">Know us and you’ll get</h2>
+				<p>Why we stand out from the rest of the Digital Marketing Agencies.</p>
 				<div class="sep"></div>
 			</section>
 
@@ -34,11 +34,8 @@
 				<div class="col-md-9 col-sm-9">
 					<section class="newSection about">
 						<h2 class="title">About Us</h2>
-						<p> About UsMorbi eros metus, semper vitae rutrum id, gravida vestibulum velit. Aenean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem. Phasellus ultrices, turpis eu fermentum accumsan, sem leo porta erat, a bibendum tellus magna id velit. Cras vel facilisis neque. Phasellus felis risus, varius non vulputate ut, tempus at risus. Praesent pellentesque felis sit amet lorem sagittis id scelerisque justo facilisis.</p>
-
-						<p>Aenean rhoncus sagittis orci, eu elementum neque lacinia at. Pellentesque porta sollicitudin convallis. Sed commodo massa ac nibh venenatis fringilla. Curabitur turpis nulla, bibendum ut malesuada at, placerat vestibulum nulla. Curabitur euismod leo vel nulla commodo commodo. In volutpat mollis pretium. Integer lobortis magna vel ipsum auctor adipiscing. Pellentesque sollicitudin odio et lectus sagittis auctor. Integer lectus orci, iaculis id feugiat vel, dignissim vel enim. Fusce dolor libero, faucibus at rutrum vitae, dapibus eget sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi dignissim lobortis quam ut iaculis. Praesent facilisis ante quis neque fringilla posuere. Praesent auctor lectus nulla.</p>
-
-						<p>Nullam et viverra nisl. Proin scelerisque justo eget augue feugiat quis luctus metus eleifend. Donec molestie turpis ut massa fermentum vel pellentesque mi pharetra. Nullam porta tempor eros. In eu lorem quis nulla dictum rutrum quis non odio. Proin lobortis feugiat aliquam. Etiam dapibus faucibus commodo. Etiam est dolor, vestibulum a tristique non, interdum nec augue.</p>
+						<p>We are a Digital Marketing Agency specialized on social media. We take the advertising culture of Madison Avenue to the digital era, innovating and writing history with you.</p>
+            <p>We‘re excited to start a new adventure with you. We care about your success and we’ll work for it. It doesn’t matter the distance of your market, the new technology era allow us to perfectly understand your company, value offer and markets. We intend to know your company in detail along with your ambitions in order to provide you a customized service. We don’t intent to be a simple service supplier, we want to boost your success.</p>
 						<div class="sep"></div>
 					</section>
 					<!-- Team Members -->
@@ -98,7 +95,7 @@
 						<div class="sep"></div>
 					</section>
 					<!-- ProgressBar -->
-					<section class="newSection ourSkills">
+					<!--<section class="newSection ourSkills">
 						<h2 class="title">Our Skills</h2>
 						<p>Morbi eros metus, semper vitae rutrum id, gravida vestibulum velit faucibus at rutrum vitae, dapibus eget sem enean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem.</p>
 
@@ -120,7 +117,7 @@
 							</div>
 						</div>
 
-					</section>
+					</section>-->
 				</div>
 				<!-- Sidebar -->
 				<aside class="col-md-3 col-sm-3">
@@ -128,17 +125,16 @@
 					<div class="widgets">
 						<h2 class="title">Our Services</h2>
 						<ul class="sidebarNav">
-							<li><a href="#">Web Design <span class="right-arrow"></span> </a></li>
-							<li><a href="#">Logo Design<span class="right-arrow"></span></a></li>
-							<li><a href="#">CMS Design<span class="right-arrow"></span></a></li>
-							<li><a href="#">Ecommerce Design<span class="right-arrow"></span></a></li>
-							<li><a href="#">SEO Optimization<span class="right-arrow"></span></a></li>
-							<li><a href="#">Search Engine Marketing<span class="right-arrow"></span></a></li>
+							<li><a href="./services.php#BusinessSocialMedia">Business Social Media<span class="right-arrow"></span> </a></li>
+							<li><a href="./services.php#DigitalCampaings">Digital Campaigns<span class="right-arrow"></span></a></li>
+							<li><a href="./services.php#DigitalRP">Digital PR<span class="right-arrow"></span></a></li>
+							<li><a href="./services.php#SocialMediaAndWebsiteReview">Social Media and Website review<span class="right-arrow"></span></a></li>
+							<li><a href="./services.php#PhotoCoverage">Photo Coverage<span class="right-arrow"></span></a></li>							
 						</ul>
 						<div class="sep"></div>
 					</div>
 					<!-- Sidebar Widgets -->
-					<div class="widgets">
+					<!--<div class="widgets">
 						<h2 class="title">Latest News</h2>
 						<div class="latestNews">
 							<ul class="fa-ul">
@@ -155,7 +151,7 @@
 							</ul>
 						</div>
 						<div class="sep displayNone"></div>
-					</div>
+					</div>-->
 
 				</aside>
 				<div class="sep"></div>  
@@ -175,16 +171,16 @@
 			<section class="newSection ourClients">
 				<h2 class="title">Our Clients</h2>
 				<div class="clients">
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a>
-				</div>
+          <a href="#" class="carousel-item">
+            <img src="./inicio/clients/ClienteHeySuccess.png" alt="HeySuccess"/>
+          </a>
+          <a href="#" class="carousel-item">
+            <img src="./inicio/clients/ClienteStandUp.png" alt="StandUp"/>
+          </a>
+          <a href="#" class="carousel-item">
+            <img src="./inicio/clients/ClienteHersadig.png" alt=""/>
+          </a>
+        </div>
 			</section>
 
 		</div> <!-- maincontent -->

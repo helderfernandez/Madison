@@ -1,6 +1,6 @@
 ﻿<?php
 $yourEmailAddress = 'sharif@falconcreativestudio.com'; //Put your own email address here.
-$subject = 'Mail From True Theme';
+$subject = 'Mail From Madison Site';
 
 //Check to make sure that the name field is not empty
 if(trim($_POST['contactname']) == '') {

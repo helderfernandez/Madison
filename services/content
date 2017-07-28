@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="pull-left">
 						<h2 class="title">Our Services</h2>
-						<p class="desc">Let you know <strong>Who We Are</strong>?</p>
+						<p class="desc">Completely Customized</p>
 					</div>
 					<div class="pull-right">
 						<ul>
@@ -25,112 +25,233 @@
 
 			<!-- CallOut -->		
 			<section class="callOut newSection">
-				<h2 class="title">Lorem ipsum dolor sit amet, cognsectetur adipiscing elit.</h2>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet pharetra leo.</p>
+				<h2 class="title">Specialists in</h2>
+        <p>Social Media Marketing.</p>
 				<div class="sep"></div>
 			</section>
 
 			<section class="row">
 				<div class="col-md-9 col-sm-9 clearfix">
 					<h2 class="title">Our Services</h2>
-					<p>In non nulla at erat laoreet euismod. Integer nec urna nulla. Praesent ut tortor gravida orci condimentum mollis. In hac habitasse platea dictumst. Vivamus auctor, tellus vel fermentum adipiscing, orci turpis lacinia nulla, vitae pharetra est risus vitae quam. Nam dignissim elit urna. Duis in hendrerit purus. Nullam tempor euismod elit, sit amet porta diam lacinia sed. Pellentesque non ullamcorper nunc. In mattis enim ut leo euismod lacinia.</p>
-					<!-- service -->
-					<div class="singleServices">
+					<p>Our services are completely customized according to the requirements of your company and the market that you serve.</p>
+					
+          <!-- service -->
+					<div class="singleServices" id="BusinessSocialMedia">
 						<div class="servicesHeader">
 							<div class="icon100">
-								<i class="fa fa-laptop"></i>
+								<img src="./inicio/services/BusinessSocialMedia.png"></img>
 							</div>
 							<div class="postHeading">
-								<h3 class="title">Web Design</h3>
-								<p class="desc">Amet pharetra tortoronec volutpat</p>
+								<h3 class="title">Business Social Media</h3>
+								<p class="desc">Make your business Digital</p>
 							</div>
 						</div>
-						<p>Curabitur feugiat mi quis velit fermentum pellentesque condimentum enim ullamcorper. Sed porttitor fringilla semper. Proin convallis nunc pulvinar dolor ullamcorper sit amet ultrices turpis pellentesque. Proin nisi neque, placerat et ultricies eget, pellentesque vitae nibh. In non nulla at erat laoreet euismod. Integer nec urna nulla. Praesent ut tortor gravida orci condimentum mollis. In hac habitasse platea dictumst. Vivamus auctor, tellus vel fermentum adipiscing, orci turpis lacinia nulla, vitae pharetra est risus vitae quam. Nam dignissim elit urna. Duis in hendrerit purus.</p>
-
-						<p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Learn More</a></p> 
+						<p>We manage you social networks with the correct approach to optimize the organic numbers. It will allow us to increase your presence on the main digital platforms and the consumer mind.</p>
+            <p><strong>For whom?</strong></p>
+            <p>Companies who intend to adapt themselves to the new technologies, to get closer to the consumer, improving their branding and stand out over the competition.</p>
+						<p><strong>Benefit?</strong></p>
+            <p>The presence on social media, gives many benefits like:</p>
+              <p>
+                <li>Permanent and constantly presence on the consumer mind</li>
+                <li>Branding</li>
+                <li>Increased capacity of attract new customers</li>
+                <li>Customer Loyalty</li>
+              </p>            
+            <p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Contact us</a></p> 
 						<div class="sep"></div> 
 					</div>
 
 					<!-- service -->
-					<div class="singleServices">
+					<div class="singleServices" id="StartUpSocialMedia">
 						<div class="servicesHeader">
 							<div class="icon100">
-								<i class="fa fa-laptop"></i>
+								<img src="./inicio/services/StartUpSocialMedia.png"></img>
 							</div>
 							<div class="postHeading">
-								<h3 class="title">Web Design</h3>
-								<p class="desc">Amet pharetra tortoronec volutpat</p>
+								<h3 class="title">Start Up Social Media</h3>
+								<p class="desc">Let’s everyone know your entrepreneurship</p>
 							</div>
 						</div>
-						<p>Curabitur feugiat mi quis velit fermentum pellentesque condimentum enim ullamcorper. Sed porttitor fringilla semper. Proin convallis nunc pulvinar dolor ullamcorper sit amet ultrices turpis pellentesque. Proin nisi neque, placerat et ultricies eget, pellentesque vitae nibh. In non nulla at erat laoreet euismod. Integer nec urna nulla. Praesent ut tortor gravida orci condimentum mollis. In hac habitasse platea dictumst. Vivamus auctor, tellus vel fermentum adipiscing, orci turpis lacinia nulla, vitae pharetra est risus vitae quam. Nam dignissim elit urna. Duis in hendrerit purus.</p>
+						<p>Specialized service for startups. Designed specifically to expedite the monetization your entrepreneurship and expand your market.</p>
 
-						<p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Learn More</a></p> 
+            <p><strong>For whom?</strong></p>
+            <p>Startups who need a correct diffusion of your product/service.</p>
+						<p><strong>Benefit?</strong></p>
+            <p>The principal Benefits are:</p>
+              <p>
+                <li>Permanent and constantly presence on the consumer mind</li>
+                <li>Branding</li>
+                <li>Market expansion</li>
+                <li>Optimized resources</li>
+                <li>Better diffusion</li>
+                <li>Better accuracy</li>                
+              </p>
+                
+						<p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Contact us</a></p> 
 						<div class="sep"></div> 
 					</div>
 
-					<!-- service -->
-					<div class="singleServices">
-						<div class="servicesHeader">
-							<div class="icon100">
-								<i class="fa fa-laptop"></i>
-							</div>
-							<div class="postHeading">
-								<h3 class="title">Web Design</h3>
-								<p class="desc">Amet pharetra tortoronec volutpat</p>
-							</div>
-						</div>
-						<p>Curabitur feugiat mi quis velit fermentum pellentesque condimentum enim ullamcorper. Sed porttitor fringilla semper. Proin convallis nunc pulvinar dolor ullamcorper sit amet ultrices turpis pellentesque. Proin nisi neque, placerat et ultricies eget, pellentesque vitae nibh. In non nulla at erat laoreet euismod. Integer nec urna nulla. Praesent ut tortor gravida orci condimentum mollis. In hac habitasse platea dictumst. Vivamus auctor, tellus vel fermentum adipiscing, orci turpis lacinia nulla, vitae pharetra est risus vitae quam. Nam dignissim elit urna. Duis in hendrerit purus.</p>
+          <!-- service -->
+          <div class="singleServices" id="DigitalCampaings">
+          <div class="servicesHeader">
+          <div class="icon100">
+          <img src="./inicio/services/DigitalCampaings.png"></img>
+          </div>
+          <div class="postHeading">
+          <h3 class="title">Digital Campaigns</h3>
+          <p class="desc">Ensure your campaign success</p>
+          </div>
+          </div>
+          <p>Specialized Service, We intensify the organic traffic and optimize the paid publicity on your social media, that way we increase the efficiency of your resources.</p>
+          <p><strong>For whom?</strong></p>
+          <p>Companies who are or intent to have a limited time advertising campaign.</p>
+          <p><strong>Benefit?</strong></p>
+          <p>The principal Benefits are:</p>
+          <p>          
+            <li>Permanent and constantly presence on the consumer mind</li>
+            <li>Branding</li>
+            <li>Increased capacity of attract new customers</li>
+            <li>Customer Loyalty</li>
+            <li>Optimized resources</li>
+            <li>Greater Diffusion</li>                
+            <li>Higher Accuracy</li>                
+          </p>
 
-						<p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Learn More</a></p> 
-						<div class="sep"></div> 
-					</div>
+          <p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Contact us</a></p> 
+          <div class="sep"></div> 
+          </div>
+          
+          <!-- service -->
+          <div class="singleServices" id="DigitalRP">
+          <div class="servicesHeader">
+          <div class="icon100">
+          <img src="./inicio/services/DigitalRP.png"></img>
+          </div>
+          <div class="postHeading">
+          <h3 class="title">Digital PR</h3>
+          <p class="desc">Power your activities</p>
+          </div>
+          </div>
+          <p>We manage the social networks of public people, promoting and sharing their activities and events, and give a coverture of them.</p>
+          <p><strong>For whom?</strong></p>
+          <p>
+          <li>Athletes</li>
+          <li>Artists</li>
+          <li>Politicians</li>
+          </p>
+          <p>
+          These people can use social media to expand the diffusion of all their PR activities, and a correct communication of the events they are part of.</p>
+          <p><strong>Benefit?</strong></p>
+          <p>
+          The service benefits vary according the customer activity, e.g.:</p>
+          <p>
+          <li>Better media exposure</li>
+          <li>Correct diffusion of their art on the social media platforms</li>
+          <li>Competitive advantage on their careers</li>
+          <li>Constant presence on the media</li>
+          <li>Increase of their acceptance levels</li>
+          </p>
+          <p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Contact us</a></p> 
+          <div class="sep"></div> 
+          </div>
 
+          <!-- service -->
+          <div class="singleServices" id="SocialMediaAndWebsiteReview">
+          <div class="servicesHeader">
+          <div class="icon100">
+          <img src="./inicio/services/SocialMediaAndWebsiteReview.png"></img>
+          </div>
+          <div class="postHeading">
+          <h3 class="title">Social Media and Website review</h3>
+          <p class="desc">Effective tools for effective</p>
+          </div>
+          </div>
+          <p>We measure the effectiveness of your social media and website, giving you the information of your merits, failings, limitations and drivers. This review has the objective of identify the failures and inefficiencies that must be corrected and the hits that must be kept.</p>
+          <p><strong>For whom?</strong></p>
+          <p>Aimed to companies who wishes to implement and/or optimize the use of new technologies on their value offer.</p>
+          <p><strong>Benefit?</strong></p>
+          <p>You will know the effectiveness of:</p>
+          <p>
+          <li>Social media engineer</li>
+          <li>Posts</li>
+          <li>Website Engagement</li>
+          <li>Website Functionality</li>
+          </p>
+          <p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Contact us</a></p> 
+          <div class="sep"></div> 
+          </div>
+          
+          <!-- service -->
+          <div class="singleServices" id="PhotoCoverage">
+          <div class="servicesHeader">
+          <div class="icon100">
+          <img src="./inicio/services/PhotoCoverage.png"></img>
+          </div>
+          <div class="postHeading">
+          <h3 class="title">Photo Coverage</h3>
+          <p class="desc">Photo Coverage</p>
+          </div>
+          </div>
+          <p>Available just in Bolivia for the moment. We want to improve your experience on social media by giving you the opportunity to have a photo coverage. These pictures will go directly to your social networks, where they will be used to spared your activities in the most effective way.</p>
+          <p>
+          <li>Business events</li>
+          <li>Social Responsibility Events</li>
+          <li>Product exhibition</li>
+          <li>Social Events</li>
+          <li>Artistic exhibition</li>
+          <li>Sport events</li>
+          <li>Others request by the client</li>
+          </p>
+          <p class="btnMargin"><a href="services-single.htm" class="btn btn-theme-pri btn-medium">Contact us</a></p> 
+          <div class="sep"></div> 
+          </div>
+          
 					<!-- OurProcess -->
 					<section class="ourProcess">
 						<h2>Our Process</h2>
 						<div class="processLevel">
 							<div class="row"><div class="col-md-2 col-sm-2">
 								<div class="icon100">
-									<p><span>01</span>Strategy</p>
+									<p><span>01</span>Analyze</p>
 									<span class="arrowBg"></span>
 								</div>
 							</div>
 
 							<div class="col-md-2 col-sm-2">
 								<div class="icon100">
-									<p><span>02</span>Planning</p>
+									<p><span>02</span>Develop a strategy</p>
 									<span class="arrowBg"></span>
 								</div>
 							</div>
 
 							<div class="col-md-2 col-sm-2">
 								<div class="icon100">
-									<p><span>03</span>Design</p>
+									<p><span>03</span>Execute</p>
 									<span class="arrowBg"></span>
 								</div>
 							</div>
 
 							<div class="col-md-2 col-sm-2">
 								<div class="icon100">
-									<p><span>04</span>Develop</p>
+									<p><span>04</span>Measure</p>
 									<span class="arrowBg"></span>
 								</div>
 							</div>
 
 							<div class="col-md-2 col-sm-2">
 								<div class="icon100">
-									<p><span>05</span>Support</p>
+									<p><span>05</span>Correct mistakes</p>
 									<span class="arrowBg"></span>
 								</div>
 							</div>
 
 							<div class="col-md-2 col-sm-2">
 								<div class="icon100">
-									<p><span>06</span>Execute</p>
+									<p><span>06</span>Improve strategy</p>
 								</div>
 							</div></div>
 						</div>
-						<p>Nisi porttitor parturient, porta elementum pellentesque hac mattis montes urna tincidunt porttitor, mid! Nascetur mus mid, penatibus arcu enim sit scelerisque! Ac mattis ridiculus a massa. Turpis! Pellentesque, aliquam sed? Egestas et arcu amet, ridiculus ut! Eros quis porttitor est, sit in, velit enim, parturient proin porta odio augue, augue, odio magnis cum cum.</p>
+						<p>Our services are constantly evaluated in order to improve them and adapt ourselves to the market trends and new technologies updates.</p>
 
 					</section>  
 				</div>
@@ -140,21 +261,21 @@
 					<div class="widgets">
 						<h2 class="title">Why Choose Us?</h2>
 						<ul class="categories">
-							<li><span class="icons fa fa-long-arrow-right"></span> Praesent ut tortor gravida orci.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Donec nec leo eget volutpat.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Proin lobortis feugiat aliquam.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Aliquam lacinia mollis pretium.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Praesent ut tortor gravida orci.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Donec nec leo eget volutpat.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Proin lobortis feugiat aliquam.</li>
-							<li><span class="icons fa fa-long-arrow-right"></span> Aliquam lacinia mollis pretium.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Permanent and Visible presence.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Branding.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Increased capacity to attract new customers.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Customer Loyalty.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Resource Optimization.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Greater Diffusion.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Higher Accuracy.</li>
+							<li><span class="icons fa fa-long-arrow-right"></span> Competitive advantage.</li>
 						</ul>
 						<div class="sep"></div>
 					</div>
 
 					
 					<!-- Testimonial -->
-					<div class="testimonials">
+					<!--<div class="testimonials">
 						<h2 class="title">Testimonial</h2>
 						<div class="liquid-slider" id="slider-id">
 							<div class="testimonial">
@@ -199,13 +320,13 @@
 							</div>
 						</div>
 						<div class="sep"></div>
-					</div>
+					</div>-->
 				</aside>
 			</section>
 
 			<div class="sep"></div>
 			<!-- CallOut With Button -->
-			<section class="newSection callOut calloutTwo">
+			<!--<section class="newSection callOut calloutTwo">
 				<div class="row">
 					<div class="col-md-9 col-sm-9">
 						<h2 class="title">Lorem ipsum dolor sit amet, cognsectetur adipiscing elit.</h2>
@@ -216,20 +337,14 @@
 					</div>
 				</div>
 				<div class="sep"></div>
-			</section>
+			</section>-->
 			<!-- Our Clients -->
 			<section class="newSection ourClients">
 				<h2 class="title">Our Clients</h2>
 				<div class="clients">
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a> 
-					<a href="#" class="carousel-item"><img src="img/Clients-img-one.png" alt=""></a>
+					<a href="#" class="carousel-item"><img src="./inicio/clients/ClienteHeySuccess.png" alt="HeySuccess"/></a> 
+			    <a href="#" class="carousel-item"><img src="./inicio/clients/ClienteStandUp.png" alt="StandUp"/></a>       
+			    <a href="#" class="carousel-item"><img src="./inicio/clients/ClienteHersadig.png" alt=""/></a> 
 				</div>
 			</section>
 		</div> <!-- maincontent --> 

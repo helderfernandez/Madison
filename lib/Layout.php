@@ -92,8 +92,8 @@ require_once('pagetemplate.php');
 						<!-- Widget -->
 						<div class="widget">
 							<h2 class="title">Contact Us</h2>
-							<p>Bldg. Alhambra 1-E<br/>America Avenue and J Campos<br/>Cochabamba – Bolivia</p>							
-							<p>Phone: <?php include 'phonenumber';  ?> <br>Email: <a href="mailto:info@madison-click.com"> info@madison-click.com</a></p>
+							<p><?php include 'address';  ?></p>							
+							<p>Phone: <?php include 'phonenumber';  ?> <br>Email: <?php include 'mailaddress';  ?></p>
 							<div class="socialIcons">
 								<ul class="clearfix">
 									<li><a href="#" class="icon22 blue"><span class="fa fa-twitter"></span></a></li>

@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="pull-left">
 						<h2 class="title">Contact Us</h2>
-						<p class="desc">Let you know <strong>Who We Are</strong>?</p>
+						<p class="desc">We are waiting for you.</p>
 					</div>
 					<div class="pull-right">
 						<ul>
@@ -28,14 +28,21 @@
 				<div class="col-md-9 col-sm-9">
 					<section class="newSection">
 						<h2>Contact Us</h2>
-						<p>Contact UsAuctor nisi risus enim pid turpis urna sit porta! Est phasellus eu! Mauris porttitor, scelerisque magna! Cursus sit aenean augue. Enim nec sit sed. Non dignissim! Natoque aliquam, phasellus? Lectus quis habitasse aenean lacus, nisi lorem arcu, turpis ultrices integer incidunt magna proin non turpis mus.Morbi eros metus, semper vitae rutrum id, gravida vestibulum velit. Aenean mollis aliquet adipiscing. Quisque molestie lorem sed tortor lacinia ut vulputate purus scelerisque. In eget dui in mauris accumsan tristique id id sem. Phasellus ultrices, turpis eu fermentum accumsan, sem leo porta erat, a bibendum tellus magna id velit. Cras vel facilisis neque. Phasellus felis risus, varius non vulputate ut, tempus at risus. Praesent pellentesque felis sit amet lorem sagittis id scelerisque justo facilisis.</p>
-
+						<p>
+            <strong>Did you make your decision yet?</strong><br/>
+            Awesome, contact us and star your social media experience <br/>
+            <strong>Do you have some Questions?</strong><br/>
+            No worries, write us all your questions, we will be more than glad to answer them.<br/><br/>
+            We are waiting for you…
+            </p>
 						<!-- Map -->
 						<div class="map">
-							<iframe width="100%" height="296" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=New+York,+NY,+United+States&amp;aq=1&amp;oq=new&amp;sll=37.0625,-95.677068&amp;sspn=37.735377,86.044922&amp;ie=UTF8&amp;hq=&amp;hnear=New+York&amp;t=m&amp;z=10&amp;ll=40.714353,-74.005973&amp;output=embed"></iframe>
+							<iframe width="100%" height="296" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                      src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=New+York,+NY,+United+States&amp;aq=1&amp;oq=new&amp;sll=37.0625,-95.677068&amp;sspn=37.735377,86.044922&amp;ie=UTF8&amp;hq=&amp;hnear=New+York&amp;t=m&amp;z=10&amp;ll=40.714353,-74.005973&amp;output=embed">
+              </iframe>
 						</div>
 
-						<p>Auctor nisi risus enim pid turpis urna sit porta! Est phasellus eu! Mauris porttitor, scelerisque magna! Cursus sit aenean augue. Enim nec sit sed. Non dignissim! Natoque aliquam, phasellus? Lectus quis habitasse aenean lacus, nisi lorem arcu, turpis ultrices integer incidunt magna proin non turpis mus.</p>
+						<!--<p>Auctor nisi risus enim pid turpis urna sit porta! Est phasellus eu! Mauris porttitor, scelerisque magna! Cursus sit aenean augue. Enim nec sit sed. Non dignissim! Natoque aliquam, phasellus? Lectus quis habitasse aenean lacus, nisi lorem arcu, turpis ultrices integer incidunt magna proin non turpis mus.</p>-->
 						<div class="sep"></div>
 					</section>
 
@@ -73,17 +80,15 @@
 							<ul class="fa-ul">
 								<li>
 									<span class="fa fa-map-marker fa-li"></span>
-									Interion Corporate Office<br>
-									1377 Fell Street<br>
-									San Francisco, CA 94117
+									<?php include './lib/address';  ?>
 								</li>
 								<li>
 									<span class="fa fa-phone fa-li"></span>
-									+1(582) 495 85 62
+									<?php include './lib/phonenumber';  ?>
 								</li>
 								<li>
 									<div class="contactInfoIcons"> <span class="fa fa-envelope-o fa-li"></span> </div>
-									<a href="#">johndoe@gmail.com</a>
+									<?php include './lib/mailaddress';  ?>
 								</li>
 							</ul>
 						</div>
